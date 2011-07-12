@@ -1,0 +1,73 @@
+
+                                   /|    /|
+                                  / |   / |
+                                 /  |  /  |
+                                /   | /   | .
+                               /____|/____| | n d
+                                _____ _____
+                               |    /|    /
+                               |   / |   /
+                               |  /  |  /
+                               | /   | /
+                               |/    |/     a r e
+  
+
+                               r  e  l  e  a  s  e
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[[[ INFORMATION ]]]
+
+Title:          "Node"
+Type:           Demo (OpenGL Accelerated)
+Info:           This is the final release of PC demo, which was originally
+                shown at the "Coma2" Demo Party in Montreal, Canada on
+                September 2, 2000.  It came in 3rd place (out of 12).
+Requires:       Win98 at 233mHz
+                3d-accelerator (TNT) at 640x480x16
+                OpenGL drivers with attenuation support (or the end is black!)
+Recommend:      WinNT/2k at 500mHz
+                GeForce (with July, 2000 "Detonator" drivers at 1024x768x32)
+                Taco Bell in one hand, Mountain Dew in the other
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[[[ OPTIONS ]]]
+
+Fullscreen = -f
+Loop       = -l
+Resolution = -r <width> <height> <bits per pixel>
+Quality    = -q <quality 1-10>
+No Sound   = -s
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[[[ CREDITS ]]]
+
+Code:           Tronster    tronster321@hotmail.com http://www.tronster.com/
+                Moby Disk   mobydisk@home.com       http://www.mobydisk.com/
+
+Gfx:            Perisoft    davidw@lightlink.com    http://www.lightlink.com/davidw/
+                Meg         ladyofspain@hotmail.com
+
+Music:          Perisoft
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+o This is a "post-final" version, and much cleaner than the final release.
+	- Linux support
+	- Fix memory leaks
+	- Better sound support
+o This is the "final" version, and much cleaner than the party release.
+o Thanks to Unkelben, and Apsod for throwing the Coma2 demo party.
+o Greets:
+	- Kneebiter, Thanks for putting us up for a night.
+	- Creative Impact, The guys with the kick'n, tight code.
+	- Suboptical, Most impressive jelly fish.  :)
+	- DCB, You're nuts.  Don't change.
+	- All of the coders, artists, and musicians at Coma2.
+	- Nehe (nehe.gamedev.net), Essential tutorials.
+	- Richard Wright, And his "OpenGL Superbible".
+        - All the fine young men and women of the Taco Bell corporation for
+          providing us with nourishment.
+
+  

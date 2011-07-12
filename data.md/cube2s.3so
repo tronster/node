@@ -1,0 +1,74 @@
+VERSION 0.1
+Object set: "cube2s"
+Tri-mesh, Vertices: 8  Objects: 2
+Vertex list:
+Vertex 0:  X: -1 Y: -1 Z: +1
+Vertex 1:  X: +1 Y: -1 Z: +1
+Vertex 2:  X: +1 Y: +1 Z: +1
+Vertex 3:  X: -1 Y: +1 Z: +1
+Vertex 4:  X: -1 Y: -1 Z: -1
+Vertex 5:  X: +1 Y: -1 Z: -1
+Vertex 6:  X: +1 Y: +1 Z: -1
+Vertex 7:  X: -1 Y: +1 Z: -1
+Object 0
+color: R:1.0 G:1.0 B:1.0
+light: A:0.3 D:1.0 E:0.0 S:0.0,0
+transparency: 0
+texture: metal1
+smooth: 0
+Face list: 12
+Face 0:  A:0 B:1 C:2 AB:1 BC:1 CA:1
+Face 0:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 1:  A:0 B:2 C:3 AB:1 BC:1 CA:1
+Face 1:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 2:  A:5 B:4 C:7 AB:1 BC:1 CA:1
+Face 2:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 3:  A:5 B:7 C:6 AB:1 BC:1 CA:1
+Face 3:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 4:  A:5 B:1 C:0 AB:1 BC:1 CA:1
+Face 4:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 5:  A:4 B:5 C:0 AB:1 BC:1 CA:1
+Face 5:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 6:  A:3 B:2 C:6 AB:1 BC:1 CA:1
+Face 6:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 7:  A:3 B:6 C:7 AB:1 BC:1 CA:1
+Face 7:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 8:  A:0 B:3 C:7 AB:1 BC:1 CA:1
+Face 8:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 9:  A:0 B:7 C:4 AB:1 BC:1 CA:1
+Face 9:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 10:  A:6 B:2 C:1 AB:1 BC:1 CA:1
+Face 10:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 11:  A:5 B:6 C:1 AB:1 BC:1 CA:1
+Face 11:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Object 1
+color: R:1.0 G:1.0 B:1.0
+light: A:0.3 D:1.0 E:0.0 S:0.0,0
+transparency: 0
+texture: metal1
+smooth: 0
+Face list: 12
+Face 0:  A:2 B:1 C:0 AB:1 BC:1 CA:1
+Face 0:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 1:  A:3 B:2 C:0 AB:1 BC:1 CA:1
+Face 1:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 2:  A:7 B:4 C:5 AB:1 BC:1 CA:1
+Face 2:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 3:  A:6 B:7 C:5 AB:1 BC:1 CA:1
+Face 3:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 4:  A:0 B:1 C:5 AB:1 BC:1 CA:1
+Face 4:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 5:  A:0 B:5 C:4 AB:1 BC:1 CA:1
+Face 5:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 6:  A:6 B:2 C:3 AB:1 BC:1 CA:1
+Face 6:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 7:  A:7 B:6 C:3 AB:1 BC:1 CA:1
+Face 7:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 8:  A:7 B:3 C:0 AB:1 BC:1 CA:1
+Face 8:  u: 0 v: 0 u: 0 v: 255 u: 255 v: 255
+Face 9:  A:4 B:7 C:0 AB:1 BC:1 CA:1
+Face 9:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 10:  A:1 B:2 C:6 AB:1 BC:1 CA:1
+Face 10:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0
+Face 11:  A:1 B:6 C:5 AB:1 BC:1 CA:1
+Face 11:  u: 0 v: 0 u: 255 v: 255 u: 255 v: 0

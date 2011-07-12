@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[mwnode.dsp]
+SCC_Aux_Path = "\\winserver\node\"
+SCC_Project_Name = "$/mwNode", FCAAAAAA
+
+[mwnode.dsw]
+SCC_Aux_Path = "\\winserver\node\"
+SCC_Project_Name = "$/mwNode", FCAAAAAA
